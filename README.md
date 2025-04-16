@@ -1,6 +1,3 @@
-# LLPF
-Herramienta educativa como marco filosófico moderno, proyecto computable y universal
-
 # LLPF Logic Engine - Interfaz Web
 
 Este proyecto te permite interactuar con un motor de lógica simbólica para el Lenguaje Lógico Político Formal (LLPF), una herramienta para deducir teoremas políticos a partir de axiomas universales.
