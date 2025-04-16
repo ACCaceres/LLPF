@@ -1,3 +1,4 @@
+![Portada del proyecto](cover.png)
 
 # LLPF – Lenguaje Lógico Político Formal
 
