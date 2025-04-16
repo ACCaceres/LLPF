@@ -44,9 +44,9 @@ streamlit run llpf_web_interface.py
 
 Puedes leer el tratado completo y sus teoremas en:
 
-🔗 [https://TU_USUARIO.github.io/LLPF](https://TU_USUARIO.github.io/LLPF)
+🔗 [https://accaceres.github.io/LLPF/](https://accaceres.github.io/LLPF/)
 
-(Cambia `TU_USUARIO` por tu nombre de usuario real en GitHub)
+
 
 ---
 
