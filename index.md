@@ -4,13 +4,14 @@
 A lo largo de la historia, el poder ha sido ejercido en nombre de muchas causas: la patria, el pueblo, la raza, la justicia, la igualdad, la seguridad o la tradición.  
 Pero sin importar su disfraz, el poder que no encuentra límites siempre termina oprimiendo.  
 Las etiquetas ideológicas han sido usadas para dividir, manipular y justificar regímenes totalitarios de todo tipo: nazismo, comunismo, fascismo, populismo y democracias degeneradas.  
+
 Todos ellos han compartido un mismo error: colocar al Estado por sobre el individuo.
 
 Este documento nace de la necesidad de devolver claridad y verdad a la reflexión política.  
 Proponemos axiomas: verdades evidentes por sí mismas, no sujetas a partidos, colores ni narrativas.  
 Son principios universales, verificados por la experiencia histórica y la razón, cuyo fin último es preservar la libertad humana.
 
-Frente a la confusión de la opinión, el oportunismo del discurso y la corrupción de las instituciones, estos axiomas se presentan como una base lógica, moral y eterna.  
+Frente a la confusión de la opinión, el oportunismo del discurso y la corrupción de las instituciones, estos axiomas se presentan como una base lógica y tal vez moral.  
 Porque la libertad no necesita justificarse. Solo necesita defenderse.
 
 ---
