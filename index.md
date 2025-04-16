@@ -53,7 +53,7 @@ Porque la libertad no necesita justificarse. Solo necesita defenderse.
 
 ---
 
-## Cierre
+## Efectos y espectativas
 
 Estos axiomas, postulados y teoremas son un marco para evaluar cualquier sistema político, más allá de los nombres y banderas.  
 No son opiniones.  
