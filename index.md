@@ -3,8 +3,10 @@
 
 **Contexto y Fundamento**  
 A lo largo de la historia, el poder ha sido ejercido en nombre de muchas causas: la patria, el pueblo, la raza, la justicia, la igualdad, la seguridad o la tradición.  
+
 Pero sin importar su disfraz, el poder que no encuentra límites siempre termina oprimiendo.  
 Las etiquetas ideológicas han sido usadas para dividir, manipular y justificar regímenes totalitarios de todo tipo: nazismo, comunismo, fascismo, populismo y democracias degeneradas.  
+
 Todos ellos han compartido un mismo error: colocar al Estado por sobre el individuo.
 
 Este documento nace de la necesidad de devolver claridad y verdad a la reflexión política.  
