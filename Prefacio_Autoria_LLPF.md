@@ -34,5 +34,5 @@ Este trabajo puede ser compartido y adaptado con atribución, exclusivamente par
 El autor reconoce el valor del pensamiento estructurado como forma de resistencia frente a la manipulación ideológica. Cualquier interpretación del LLPF debe preservar su esencia lógica, ética y racional.
 
 > “La libertad no necesita justificarse. Solo necesita defenderse.”  
-> — Ariel Cáceres Pacheco
+
 
