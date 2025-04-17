@@ -1,7 +1,7 @@
 
 # Prefacio de Autoría
 
-**Proyecto:** LLPF ((https://accaceres.github.io/LLPF/)) – Lenguaje Lógico Político Formal  
+**Proyecto:** LLPF – Lenguaje Lógico Político Formal  
 **Autor:** Ariel Cáceres Pacheco  
 **Versión:** 1.0  
 **Fecha:** 2025
