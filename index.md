@@ -1,5 +1,5 @@
 # LLPF – Logical Language for Political Formalism  
-📜 [Read Author's Preface](https://accaceres.github.io/LLPF/)
+📜 [Leer Prefacio de Autoría](./Prefacio_Autoria_LLPF.md)
 
 ## Treaty: The 10 Fundamental Axioms of Politics
 
