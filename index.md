@@ -6,8 +6,13 @@
 
 ## 🧠 Treaty: The 10 Fundamental Axioms of Politics
 
-> This treaty defines a logical framework for evaluating political power using axioms and formal deduction.  
-> It avoids ideological bias and focuses on freedom, structure, and limits to power.
+>We live in a time where ideological labels have replaced critical thinking.
+>They tell us Nazism is right-wing, communism is left-wing, and that voting equals freedom…
+>But nobody talks about power that can’t be questioned.
+>
+>LLPF — the Logical Language for Political Formalism — breaks that narrative.
+>It is not a theory. It is a logical system to deduce political truths from universal principles.
+>With axioms, theorems, and inference — not emotion, not partisanship.
 
 ### Axioms
 1. Power tends to concentrate if not limited.  
@@ -81,8 +86,13 @@ It is free to use for educational and civic purposes.
 
 ## 🧠 Tratado: Los 10 Axiomas Fundamentales de la Política
 
-> Este tratado define una estructura lógica para evaluar el poder político mediante axiomas y deducción formal.  
-> Evita sesgos ideológicos y se enfoca en la libertad, la estructura y los límites al poder.
+>Vivimos en una época donde las etiquetas ideológicas han reemplazado al pensamiento crítico.
+>Nos dicen que el nazismo es de derecha, que el comunismo es de izquierda, que votar es libertad…
+>Pero nadie habla del poder que no puede ser cuestionado.
+>
+>LLPF — Lenguaje Lógico Político Formal — rompe esa narrativa.
+>No es una teoría. Es un sistema lógico para deducir verdades políticas desde principios universales.
+>Con axiomas, teoremas e inferencia — no con emociones, ni partidismo.
 
 ### Axiomas
 1. El poder tiende a concentrarse si no se limita.  
